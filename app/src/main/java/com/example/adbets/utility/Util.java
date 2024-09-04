@@ -1,4 +1,4 @@
-package com.example.adbets;
+package com.example.adbets.utility;
 
 import androidx.annotation.NonNull;
 

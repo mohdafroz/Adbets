@@ -1,4 +1,4 @@
-package com.example.adbets;
+package com.example.adbets.helper;
 
 import android.content.Context;
 import android.content.SharedPreferences;
